@@ -1,4 +1,15 @@
-* v1
-** makefile
-** submodule
-** readme
+#+TITLE: my-zsh's todos
+#+AUTHOR: Quentin Burgess (quentin.burgess@frafos.com)
+#+DESCRIPTION: Quick summary of dev task for my-zsh repo
+
+* TODO v1 [1/4] [25%]
+** WIP [#A] makefile
+*** TODO install target
+*** TODO backup target
+*** IDEA refine for history
+**** encrypt
+**** handle if present
+** DONE submodule
+CLOSED: [2023-02-20 Mon 12:24]
+** TODO [#B] readme
+** TODO [#A] license dwtfyw
